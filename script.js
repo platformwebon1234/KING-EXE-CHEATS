@@ -21,7 +21,7 @@ acquireBtn.addEventListener("click", function() {
       acquireBtn.textContent = "Download Cheat"; // Altera o texto do botão
       acquireBtn.disabled = false; // Habilita o botão novamente
       acquireBtn.addEventListener("click", function() {
-        window.location.href = "https://drive.proton.me/urls/3ZVBA769AM#oT9u6uuUJwA1"; // Substitua pelo link real de download
+        window.location.href = "https://drive.proton.me/urls/DR7Y9P8D7M#AmKJ8nkpmslc"; // Substitua pelo link real de download
       });
     }
   }, 1000);
